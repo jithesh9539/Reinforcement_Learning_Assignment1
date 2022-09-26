@@ -9,7 +9,7 @@ import gym
 import numpy as np
 
 #MAX_NUM_EPISODES = 500
-MAX_NUM_EPISODES = 5000
+MAX_NUM_EPISODES = 5500
 STEPS_PER_EPISODE = 200 #  This is specific to MountainCar. May change with env
 EPSILON_MIN = 0.005
 max_num_steps = MAX_NUM_EPISODES * STEPS_PER_EPISODE
